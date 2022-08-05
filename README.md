@@ -42,3 +42,5 @@ IMPORTANT!!! If you do not know how to install these dotfiles yourself put all o
 it only takes one simple command! sudo dnf group install "Xfce Desktop"
 
 and that should install everything!!! have fun :)
+
+EDIT! you also need to install ocs-url by typing this in the rpm-packages directory! sudo dnf install ./rpm-packages/ocs-url-3.1.0-1.fc20.x86_64.rpm
