@@ -10,7 +10,7 @@ these are the commands to install things that you need :)
 
 #Commands:
 
-sudo dnf update -y; sudo dnf install  bspwm -y; sudo dnf install mangohud -y; sudo dnf install picom -y; sudo dnf install kitty; sudo dnf install vim- y; sudo dnf install gimp -y; sudo dnf install sddm -y; sudo dnf install lxpolkit -y; sudo dnf install rofi -y; sudo dnf install polybar -y; sudo dnf install nitrogen -y; sudo dnf install thunar -y;
+sudo dnf update -y; sudo dnf install  bspwm -y; sudo dnf install mangohud -y; sudo dnf install picom -y; sudo dnf install kitty; sudo dnf install vim- y; sudo dnf install gimp -y; sudo dnf install sddm -y; sudo dnf install lxpolkit -y; sudo dnf install rofi -y; sudo dnf install polybar -y; sudo dnf install nitrogen -y; sudo dnf install thunar -y; sudo dnf install -y shxkd;
 
 AUDIO IS SOMETHING YOU NEED TO SETUP YOURSELF!!!!!
 
